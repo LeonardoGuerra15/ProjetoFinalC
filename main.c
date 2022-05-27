@@ -187,7 +187,7 @@ void geraRelatorioMensal(Movimentacao * movs, int quantidade){
             <meta charset=\"utf-8\">\n\
             <title>Relatório Mensal</title>\n\
             <meta name=\"description\" content=\"GERENCIADOR FINANCEIRO - Relatório\">\n\
-            <meta name=\"author\" content=\"Felipe Gianoto\">\n\
+            <meta name=\"author\" content=\"Leonardo Guerra\">\n\
             </head>\n\
             <body>\n<h1>GERENCIADOR FINANCEIRO</h1><br><h2>Relatório Mensal</h2>", pFile);
         int i;
@@ -220,7 +220,7 @@ void geraRelatorioAnual(Movimentacao * movs, int quantidade){
             <meta charset=\"utf-8\">\n\
             <title>Relatório Anual</title>\n\
             <meta name=\"description\" content=\"GERENCIADOR FINANCEIRO - Relatório\">\n\
-            <meta name=\"author\" content=\"Felipe Gianoto\">\n\
+            <meta name=\"author\" content=\"Leonardo Guerra\">\n\
             </head>\n\
             <body>\n<h1>GERENCIADOR FINANCEIRO</h1><br><h2>Relatório Anual</h2>", pFile);
         int i;
