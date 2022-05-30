@@ -1,5 +1,38 @@
-git add . 
-git commit -m ""
-git push
+Aluno: Leonardo Guerra Modesto 
+Ra:22.221.068-4
 
-git pull
+Instruções 
+
+executar o arquivo main, cadastre tudo e veja os valores no anul.html e mensal.html
+
+1) Cadastro de receitas e gastos
+- É possível realizar o cadastro entre as linhas 50 a 53.
+- Nas linhas 104 a 112 consegue confirmar o cadastro.
+
+2) Movimentações
+- Nas linhas 26 a 38 consegue ver todas as movimentações, no codigo em si possui mais movimentações, mas aqui ja está  um exemplo
+
+3) Relatorio do ano
+- possui um o anual.html que consegue ver todos os gastos do ano.
+
+4) Relatorio do ano
+- possui um o mensal.html que consegue ver todos os gastos do mês.
+
+5) Criação de dois arquivos harder.h
+- a criação dos arquivos mensal.html e anual.html, alem do notas.txt
+
+6) Implementar rotina de leitura
+- Todos os aquivos são possíveis fazer a leitura e ver seu funcionamento
+
+7)Criação de duas estruturas "struct"
+- linha 6, 14, 17, 23 ... 
+
+8) Utilizar 3 variáveis do tipo "define"
+- 
+
+9) Utilizar duas vezes a alocação dinamica de vetores ou matrizes
+- foi utlizado na struct movimentacao, linha 19 e na linha 41.
+
+10) Foi instaciado em meu git Hub https://github.com/LeonardoGuerra15/ProjetoFinalC
+
+11) Os arquivos em html, mensal.html e anual.html pode interagir com o usuário
