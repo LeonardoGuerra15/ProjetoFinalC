@@ -20,6 +20,9 @@ executar o arquivo main, cadastre tudo e veja os valores no anul.html e mensal.h
 
 5) Criação de dois arquivos harder.h
 - a criação dos arquivos mensal.html e anual.html, alem do notas.txt
+- exemplo: <stdio.h>
+           <stdlib.h>
+            <time.h> 
 
 6) Implementar rotina de leitura
 - Todos os aquivos são possíveis fazer a leitura e ver seu funcionamento
